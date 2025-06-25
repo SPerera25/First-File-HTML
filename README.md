@@ -1,2 +1,2 @@
 # HTML
-# Hypertext Markup Language
+Hypertext Markup Language
